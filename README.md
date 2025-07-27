@@ -1,7 +1,7 @@
 # Nexford-University-BAN6420-Module-4-Assignment-Netflix-Data-Visualization
 # Instructions on how to access and interpret the Python and R code.
 
-Note: Three file where upload to the GitHub repository . 
+Note: I uploaded three files to the GitHub repository . 
 The first is the csv file, the second is the python file and then the R file.
 
 # How to execute the python code.
