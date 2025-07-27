@@ -10,5 +10,5 @@ First download the netflix_data file in the zipped format. Note the folder or di
 Then implement the code to unzip it. After which you load the data set. The python file contents the solution to the requirement as stated in the questions.
 
 # How to execute the R code
-First install the ggplot2 package, then load your dataset pointing to the file path. Make sure to take note of your file path. The one on the code is my own file path.
+First install the ggplot2 package, then load your dataset pointing to the file path. Make sure to take note of your file path. 
 
